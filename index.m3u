@@ -191,6 +191,8 @@ http://jxcbn.ws-cdn.gitv.tv/hls/HAINHD/index.m3u8?gMac=unknown&livodToken=337c9e
 http://1b6467f415.iok.la:9931/tsfile/live/1131_1.m3u8
 #EXTINF:-1 tvg-name="汕头二套" tvg-logo="https://devinweng2.github.io/tvm3u8.io/image/shantou.jpg" group-title="卫视高清",汕头二套
 http://1b6467f415.iok.la:9931/tsfile/live/1132_1.m3u8
+#EXTINF:-1 tvg-name="汕头三套" tvg-logo="https://devinweng2.github.io/tvm3u8.io/image/shantou.jpg" group-title="卫视高清",汕头三套
+http://1b6467f415.iok.la:9931/tsfile/live/1133_1.m3u8
 #EXTINF:-1 tvg-name="揭阳生活" tvg-logo="https://devinweng2.github.io/tvm3u8.io/image/shantou.jpg" group-title="卫视高清",揭阳生活
 http://1b6467f415.iok.la:9931/tsfile/live/1135_1.m3u8
 #EXTINF:-1 tvg-name="河源综合" tvg-logo="https://devinweng2.github.io/tvm3u8.io/image/shantou.jpg" group-title="卫视高清",河源综合
