@@ -187,11 +187,11 @@ http://jxcbn.ws-cdn.gitv.tv/hls/XJWS/index.m3u8?gMac=unknown&livodToken=3b0868c3
 https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="卫视备用",海南卫视
 http://jxcbn.ws-cdn.gitv.tv/hls/HAINHD/index.m3u8?gMac=unknown&livodToken=337c9e24645beaea9e1dc2761e5d0e44cdce5dc90c3fedafcce5f9bde7faac9a_1720509432_604800&fromCDN=ws
-#EXTINF:-1 tvg-name="汕头一套" tvg-logo="https://devinweng2.github.io/tvm3u8.io/image/汕头综合.jpeg" group-title="卫视高清",汕头一套
+#EXTINF:-1 tvg-name="汕头一套" tvg-logo="https://devinweng2.github.io/tvm3u8.io/image/汕头一套.jpg" group-title="卫视高清",汕头一套
 http://1b6467f415.iok.la:9931/tsfile/live/1131_1.m3u8
-#EXTINF:-1 tvg-name="汕头二套" tvg-logo="https://devinweng2.github.io/tvm3u8.io/image/shantou.jpg" group-title="卫视高清",汕头二套
+#EXTINF:-1 tvg-name="汕头二套" tvg-logo="https://devinweng2.github.io/tvm3u8.io/image/汕头二套.jpg" group-title="卫视高清",汕头二套
 http://1b6467f415.iok.la:9931/tsfile/live/1132_1.m3u8
-#EXTINF:-1 tvg-name="汕头三套" tvg-logo="https://devinweng2.github.io/tvm3u8.io/image/shantou.jpg" group-title="卫视高清",汕头三套
+#EXTINF:-1 tvg-name="汕头三套" tvg-logo="https://devinweng2.github.io/tvm3u8.io/image/汕头三套.jpg" group-title="卫视高清",汕头三套
 http://1b6467f415.iok.la:9931/tsfile/live/1133_1.m3u8
 #EXTINF:-1 tvg-name="揭阳生活" tvg-logo="https://devinweng2.github.io/tvm3u8.io/image/揭阳.jpeg" group-title="卫视高清",揭阳生活
 http://1b6467f415.iok.la:9931/tsfile/live/1135_1.m3u8
